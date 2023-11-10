@@ -1,1 +1,4 @@
-alert ("Olá segundo ano mais lindo desse mundo");
+function tocasom(idElementoAudio){
+    document.querySelector(idElementoAudio).play();
+}
+const listaDeTeclas = 
